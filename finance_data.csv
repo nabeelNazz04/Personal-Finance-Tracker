@@ -1,0 +1,26 @@
+date,amount,category,description
+24-07-2024,567,income,tip
+07-07-2024,2000.0,income,wage
+02-07-2024,2000.0,expense,tour
+15-06-2024,1500.0,income,freelance
+10-06-2024,300.0,expense,groceries
+05-06-2024,500.0,expense,rent
+01-06-2024,1200.0,income,bonus
+28-05-2024,800.0,expense,utilities
+20-05-2024,3000.0,income,salary
+15-05-2024,450.0,expense,transport
+10-05-2024,200.0,expense,dining
+05-05-2024,1000.0,income,investment
+01-05-2024,750.0,expense,shopping
+25-04-2024,2500.0,income,freelance
+20-04-2024,120.0,expense,gym membership
+15-04-2024,1500.0,expense,vacation
+10-04-2024,3000.0,income,salary
+05-04-2024,600.0,expense,medical bills
+01-04-2024,100.0,expense,entertainment
+25-03-2024,4000.0,income,bonus
+20-03-2024,900.0,expense,car repair
+15-03-2024,2000.0,income,freelance
+10-03-2024,350.0,expense,groceries
+05-03-2024,1500.0,expense,rent
+01-03-2024,2500.0,income,salary
